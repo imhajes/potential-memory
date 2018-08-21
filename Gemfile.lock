@@ -11,7 +11,7 @@ PLATFORMS
 DEPENDENCIES
   cinch
   rack
-  puma-stats-logger!
+  puma
 
 BUNDLED WITH
    1.12.5
