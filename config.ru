@@ -1,4 +1,5 @@
 require 'cinch'
+require 'rack'
 
 bot = Cinch::Bot.new do
   configure do |c|
