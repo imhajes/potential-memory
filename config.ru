@@ -1,8 +1,7 @@
-#! /usr/bin/env ruby
+
 
 require 'cinch'
 require 'rack'
-require 'puma'
 
 $bot = Cinch::Bot.new do
   configure do |c|
